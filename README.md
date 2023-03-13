@@ -1,1 +1,1 @@
-# manchenkoanna-github.io
+# Educational project
