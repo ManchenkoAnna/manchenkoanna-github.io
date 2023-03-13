@@ -804,8 +804,6 @@ input[type="checkbox"]:focus {
       margin-right: auto;
       padding-right: var(--container-pad);
       padding-left: var(--container-pad);
-      
-     /* width: 100%;*/
       max-width: calc(var(--container-pad) + var(--container-width) + var(--container-pad));
 }
 
